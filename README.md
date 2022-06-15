@@ -1,4 +1,4 @@
-# Shopping-Cart
+# Shopping Cart for a list of items in a store.
 
 Created a user-friendly menu to add and remove items from the cart; provides item details, 
 processes the checkout and generates a receipt.
